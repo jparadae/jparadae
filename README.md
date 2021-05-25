@@ -1,4 +1,4 @@
-### Ing.Informatica, autodidacta
+### Ing.Informática, autodidacta /Engineer
 
 
 - 🔭 Trabajo actualmente como desarrollador de software
