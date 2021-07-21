@@ -1,6 +1,6 @@
 ### Ing.Informática, autodidacta /Engineer
 
 
-- 🔭 Trabajo actualmente como desarrollador de software
+- 🔭 Actualmente realizo ETL
 - 🌱 Me gusta aprender y tener nuevos desafíos
 
