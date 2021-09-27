@@ -1,12 +1,12 @@
-### Ing.Informática, autodidacta /Engineer
+### Computer Engineer, self-taught / Engineer
 
 - 🔭 Data mining
 - 🔭 Cloud GCP, AWS, Azure
-- 🔭 Integraciones ETL con arquitectura con Suite de Aws S3, RDS, AMPLIFY, LAMBDA, DYNAMO, API &+
+- 🔭 ETL integrations with architecture with Aws S3 Suite, RDS, AMPLIFY, LAMBDA, DYNAMO, API & +
 - 🔭 Scrum Master Certified
-- 🔭 Desarrolladora Mobile
-- 🔭 Desarrolladora de perfil backend
-- 🌱 Docente de desarrollo de aplicaciones mobile y metodologías agile
-- 🌱 Me gusta aprender y tener nuevos desafíos
-- 🌱 Linkedin =>https://www.linkedin.com/in/jparadae/
-- 🔭 Si buscas reclutarme profesionalmente escribe a javieraparadae@gmail.com, si el desafío es interesante iré por todo.
+- 🔭 Mobile Developer
+- 🔭 Backend profile developer
+- 🌱 Teacher of mobile application development and agile methodologies
+- 🌱 I like to learn and have new challenges
+- 🌱 Linkedin => https://www.linkedin.com/in/jparadae/
+- 🔭 If you are looking to recruit me professionally write to javieraparadae@gmail.com, if the challenge is interesting I will go for everything.
