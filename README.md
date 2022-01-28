@@ -1,6 +1,6 @@
 ### Computer Engineer, self-taught / Engineer
 
-- 🔭 Data engenieer in Tata Consultance Service
+- 🔭 Data engenieer in TCS or Tata Consultancy Service
 -  🔭 Cloud GCP, AWS, Azure
 - 🔭 ETL integrations with architecture with Aws S3 Suite, RDS, AMPLIFY, LAMBDA, DYNAMO, API & +
 - 🔭 Scrum Master Certified
