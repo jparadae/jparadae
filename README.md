@@ -1,6 +1,6 @@
 ### Computer Engineer, self-taught / Engineer
 
-- 🔭 Data engenieer in TCS or Tata Consultancy Service
+- 🔭 Data engenieer 
 - 🔭 Apache Beam, Apache Airflow
 - 🔭 Cloud GCP, AWS
 - 🔭 ETL integrations with architecture with Aws S3 Suite, RDS, AMPLIFY, LAMBDA, DYNAMO, API & +
