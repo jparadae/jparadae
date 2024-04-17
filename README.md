@@ -2,9 +2,8 @@
 
 - 🔭 Data engenieer 
 - 🔭 Apache Beam, Apache Airflow
-- 🔭 Cloud GCP, AWS
+- 🔭 Cloud GCP, AWS, Azure
 - 🔭 ETL integrations with architecture with Aws S3 Suite, RDS, AMPLIFY, LAMBDA, DYNAMO, API & +
-- 🔭 Scrum Master Certified
 - 🔭 Mobile Developer
 - 🔭 Backend profile developer
 - 🌱 Teacher of mobile application development and agile methodologies
